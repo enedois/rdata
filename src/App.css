@@ -1,0 +1,19 @@
+*{margin:0; padding: 0; box-sizing: border-box;}
+.wrapper{width: 100vw;  background-image: linear-gradient(to top, #051937, #383d57, #656678, #92929c, #c1c1c1);
+}
+p{font-size: 1.2em; padding: .2em;}
+
+.spellStyle{
+  width: 50vw;
+  background-color: aliceblue;
+  border-radius: 15px;
+  border: 1px solid white;
+  margin: .2em;
+  padding: .2em;
+}
+
+table,tr,td{
+  border: 1px solid black;
+  margin: .1em;
+  padding: .2em;
+}
